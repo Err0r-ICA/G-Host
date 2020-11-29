@@ -20,7 +20,7 @@ bash G-Host
 ```
 
 ### Screenshot 
-(https://i.postimg.cc/KxZ7q6yK/Screenshot-20201130-000356-Termux.jpg)
+![Screenshot](https://i.postimg.cc/KxZ7q6yK/Screenshot-20201130-000356-Termux.jpg)
 
  ### Connect with me:
 <a href="https://github.com/Err0r-ICA"><img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
