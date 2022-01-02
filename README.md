@@ -6,9 +6,9 @@
 **[+]**<i> Automatic</i>
 
 ### Tunnel Options
-【✔】 Localhost (127.0.0.1)
-【✔】 NGROK 
-【✔】 SERVEO
+【✔】 Localhost (127.0.0.1) <br>
+【✔】 NGROK <br>
+【✔】 SERVEO <br>
 【✔】LOCALHOST - RUN
 
 ### Installing
