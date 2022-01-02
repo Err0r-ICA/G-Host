@@ -7,9 +7,9 @@
 
 ### Tunnel Options
 【✔】 Localhost (127.0.0.1)
-【✔】 NGROK (https://ngrok.com)
-【✔】 SERVEO (https://serveo.net)
-【✔】LOCALHOST - RUN (https://localhost.run)
+【✔】 NGROK 
+【✔】 SERVEO
+【✔】LOCALHOST - RUN
 
 ### Installing
 ```
