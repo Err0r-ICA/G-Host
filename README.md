@@ -1,5 +1,4 @@
-# **G-Host**
-<i>**Run you Localhost Server**</i>
+# **G-Host** - **Run you Localhost Server**
 
 ### Features
 **[+]**<i> 4 Tunnels</i>
